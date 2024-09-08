@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuejs.press/sitemap.xml
+Sitemap: https://luotianyi-0712.github.io/docs/sitemap.xml
